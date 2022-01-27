@@ -1,6 +1,6 @@
 # SQL_Analysis
 Database creation and analysis the data.
-In this project I built a database of Internet Blogs with Sql server from scratch .
-The attachments contains the ERD of the tables, Create and insert queries .
-Also, I analyzed the data using business questions and answered them with SQL queries
-And showed them visually with Tableau .
+in this project I built a database of Internet Blogs with SQL server from scratch .
+the attachments contains the ERD of the tables, create and insert queries .
+also, I analyzed the data using business questions and answered them with SQL queries
+and showed them visually with Tableau .
