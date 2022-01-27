@@ -72,7 +72,7 @@ CREATE TABLE User_Subs
 CREATE TABLE SubscriberPrice
 (
 	sub_id int not null references Subscriptions(sub_id) ,
-	price int not null check(price > 0 ) ,
+	price money not null check(price > 0 ) ,
 	startDate datetime DEFAULT(GETDATE()) not null  ,
 	endDate datetime  not null ,
 --	CONSTRAINT  valid_date check(endDate > startDate )
